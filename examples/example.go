@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/russellcardullo/go-pingdom/pingdom"
+	"github.com/billtrust/go-pingdom/pingdom"
 	"os"
 	"io/ioutil"
 	"encoding/json"
